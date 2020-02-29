@@ -1,0 +1,23 @@
+{
+  "name": "Steampunk-Hat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-negri/Steampunk-Hat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe-negri/Steampunk-Hat/issues"
+  },
+  "homepage": "https://github.com/felipe-negri/Steampunk-Hat#readme",
+  "dependencies": {
+    "play-sound": "^1.1.3"
+  }
+}
